@@ -1,1 +1,1 @@
-https://github.com/KonstMerek/dockerscan/actions/runs/23240769842/job/67556332463
+https://github.com/KonstMerek/dockerscan/actions/runs/23240769842
